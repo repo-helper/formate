@@ -78,7 +78,6 @@ extensions = [
     "sphinx_toolbox.pre_commit",
     "html_section",
     "latex_zwsp",
-    "ch_head_space",
 ]
 sphinxemoji_style = "twemoji"
 gitstamp_fmt = "%d %b %Y"
